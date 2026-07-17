@@ -1,0 +1,17 @@
+# Resultados de escaneo
+apacherc_results*.json
+apacherc_results*.txt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Entornos / IDE
+.vscode/
+.idea/
+.DS_Store
