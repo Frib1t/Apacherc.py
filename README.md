@@ -1,7 +1,7 @@
 # apacherc.py — Apache Recon Checker
 
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
+![License](https://img.shields.io/badge/license-Apache%202.0-blue)
 ![Status](https://img.shields.io/badge/status-stable-brightgreen)
 
 Herramienta de reconocimiento pasivo/activo para detectar **rutas sensibles y
@@ -119,4 +119,4 @@ ilegal según la legislación aplicable.
 
 ## Licencia
 
-MIT — ver [LICENSE](LICENSE).
+Apache License 2.0 — ver [LICENSE](LICENSE).
